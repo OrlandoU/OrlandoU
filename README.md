@@ -3,7 +3,7 @@ My name is Orlando Umanzor and I am currently working through the [Odin Project]
 🔭 I am currently working on the React section of the Odin Project curriculum. I am looking forward to learning about building user interfaces with React and creating interactive web applications.
 
 ### What I've Done So Far
-I have completed the HTML/CSS, JavaScript, and React sections of the Odin Project curriculum and am now working on the React section. 
+I have completed the HTML/CSS, JavaScript, and React sections of the Odin Project curriculum and am now working on the React section.   
 Built several projects including:
 - [Shopping App](:github.com/OrlandoU/shopping-cart-project): A chance to practice my skills in React Routing.
 - [Resume Build](::github.com/OrlandoU/shopping-cart-project): A chance to practice my skills in React.
