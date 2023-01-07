@@ -5,8 +5,8 @@ My name is Orlando Umanzor and I am currently working through the [Odin Project]
 ### What I've Done So Far
 I have completed the HTML/CSS, JavaScript, and React sections of the Odin Project curriculum and am now working on the React section. 
 Built several projects including:
-[Shopping App](:github.com/OrlandoU/shopping-cart-project): A chance to practice my skills in React Routing.
-[Resume Build](::github.com/OrlandoU/shopping-cart-project): A chance to practice my skills in React.
+- [Shopping App](:github.com/OrlandoU/shopping-cart-project): A chance to practice my skills in React Routing.
+- [Resume Build](::github.com/OrlandoU/shopping-cart-project): A chance to practice my skills in React.
 
 ### My Goals
 My ultimate goal is to become a full-stack web developer. I am excited to continue learning and improving my skills through the Odin Project and other resources. I hope to use my skills to build meaningful projects that make a positive impact on the world.
