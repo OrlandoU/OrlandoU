@@ -5,6 +5,7 @@ My name is Orlando Umanzor and I am currently working through the [Odin Project]
 ### What I've Done So Far
 I have completed the HTML/CSS, JavaScript, and React sections of the Odin Project curriculum and am now working on the React section.   
 Built several projects including:
+- [Twitter Replication](https://orlandou.github.io/twitter-replication-project/): A chance to practice my skills in React and the usage of a Baas
 - [Shopping App](https://orlandou.github.io/shopping-cart-project/): A chance to practice my skills in React Routing.
 - [Resume Build](https://orlandou.github.io/cv-project/): A chance to practice my skills in React.
 
