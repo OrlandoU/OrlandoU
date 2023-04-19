@@ -1,14 +1,13 @@
 ### Hi there 👋
 My name is Orlando Umanzor and I am currently working through the [Odin Project](https://theodinproject.com). I am excited to share my progress and projects with you.
-🔭 I am currently working on the React section of the Odin Project curriculum. I am looking forward to learning about building user interfaces with React and creating interactive web applications.
+🔭 I am currently finishing the backend section of the Odin Project curriculum. I am looking forward to learning about building user interfaces with React and creating interactive web applications.
 
 ### What I've Done So Far
-I have completed the HTML/CSS, JavaScript, and React sections of the Odin Project curriculum and am now working on the React section.   
-Built several projects including:
+I have completed the HTML/CSS, JavaScript, React, MongoDb, Node, Express sections of the Odin Project curriculum.   
+Outdated missing projects
 - [Twitter Replication](https://orlandou.github.io/twitter-replication-project/): A chance to practice my skills in React and the usage of a Baas
 - [Shopping App](https://orlandou.github.io/shopping-cart-project/): A chance to practice my skills in React Routing.
 - [Resume Build](https://orlandou.github.io/cv-project/): A chance to practice my skills in React.
-
 ### My Goals
 My ultimate goal is to become a full-stack web developer. I am excited to continue learning and improving my skills through the Odin Project and other resources. I hope to use my skills to build meaningful projects that make a positive impact on the world.
 
