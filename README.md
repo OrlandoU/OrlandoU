@@ -31,7 +31,7 @@ I'm a passionate and self-taught MERN Stack Developer based in San Pedro Sula, H
 - Learning new technologies
 - Experimenting with new tools and techniques
 
-Feel free to explore my [GitHub Portfolio](https://github.com/OrlandoU) to discover more of my projects and contributions.
+Feel free to explore my [GitHub Portfolio](https://github.com/OrlandoU) and my [Personal Portfolio Website](https://orlandou.github.io/portfolio/) to discover more of my projects and contributions.
 
 I am excited about the opportunity to contribute my skills and passion to your team. Let's connect and discuss how I can contribute to your organization's success. You can reach me at orlandojose729@gmail.com or +504 9778-4680.
 
