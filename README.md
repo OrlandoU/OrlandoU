@@ -14,7 +14,7 @@ I'm a passionate and self-taught MERN Stack Developer based in San Pedro Sula, H
 
 💻 **Skills**
 
-- HTML, CSS, JavaScript, React, Typescript, Node.js
+- HTML, CSS, JavaScript, React, Typescript, Node.js, TailWind
 - MongoDB, Express.js, Git, Firebase, Mongoose
 - Jest, Npm
 
