@@ -11,6 +11,7 @@ I'm a passionate and self-taught MERN Stack Developer based in San Pedro Sula, H
 🌱 **Education**
 
 - Centro Tecnico Hondureño Aleman: Professional Technical Baccalaureate in Electronics, 02/2020 - 11/2022
+- Universidad Nacional Autonoma de Honduras: Systems Engineering, 06/2023 - current
 
 💻 **Skills**
 
